@@ -83,6 +83,7 @@ section {
     align-items: center;
 
 }
+
 .seta {
     width: 20px;
     margin: 15px;
@@ -104,8 +105,10 @@ section {
 
 }
 
-.currency-value, .currency-value-to-convert {
+.currency-value,
+.currency-value-to-convert {
     color: #555555;
     font-weight: 700px;
     font-size: 20px;
 }
+
