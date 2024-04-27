@@ -22,7 +22,9 @@
 
 <h3 align="center">Segue a pág do projeto</h3>
 
-<img src="https://github.com/REGINALDOBOMFIM/Conversor-de-moeda-projeto-devclub/blob/main/assets/img/print.conversor.PNG?raw=true"/>
+<div align="center">
+<img src="https://github.com/REGINALDOBOMFIM/Conversor-de-moeda-projeto-devclub/blob/main/img/print.conversor.PNG?raw=true"/>
+</div>
 
 <h3 align="left">Obrigado pela visita🤝:</h3>
 
